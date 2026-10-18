@@ -12,6 +12,7 @@ A candidate's résumé is compared to the job description. It interprets text us
 From a resume, the algorithm may extract important information and abilities. It will analyse a job description's abilities and requirements, determine how well
 the resume matches, and identify any skills that are missing or matching. It will analyse skill gaps, give a match score or rank, and suggest ways the candidate
 might improve. This project's key novelty lies in pairing semantic understanding with skill-gap analysis and personalised suggestions.
+
 The platform's multi-tiered analytical methodology precisely breaks down and compares text as follows:
 Text extraction and entity recognition: The system automatically categorises resumes and job advertisements based on technical skills, soft skills, domain 
 expertise, and educational background.
